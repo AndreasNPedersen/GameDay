@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6a044d29.css",
+    "main.js": "/static/js/main.94a6e534.js",
+    "static/js/787.56b19597.chunk.js": "/static/js/787.56b19597.chunk.js",
+    "static/media/Wasted.ttf": "/static/media/Wasted.afa0e17911477366e85e.ttf",
+    "static/media/KungFuMasterTwotoneItalic.otf": "/static/media/KungFuMasterTwotoneItalic.45b694c608151c241141.otf",
+    "static/media/Squad.jpg": "/static/media/Squad.12c1876eec7b8ee26e54.jpg",
+    "static/media/KungFuMasterSpaced.otf": "/static/media/KungFuMasterSpaced.e44a627855a44902c03b.otf",
+    "index.html": "/index.html",
+    "main.6a044d29.css.map": "/static/css/main.6a044d29.css.map",
+    "main.94a6e534.js.map": "/static/js/main.94a6e534.js.map",
+    "787.56b19597.chunk.js.map": "/static/js/787.56b19597.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a044d29.css",
+    "static/js/main.94a6e534.js"
+  ]
+}

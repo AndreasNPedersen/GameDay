@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@font-face {
+  font-family: "Wasted";   /*Can be any text*/
+  src: local("Wasted"),
+    url("./fonts/Wasted.ttf") format("truetype"); 
+}
+@font-face {
+  font-family: "KungFuMasterSpaced";   /*Can be any text*/
+  src: local("KungFuMasterSpaced"),
+    url("./fonts/KungFuMasterSpaced.otf") format("truetype"); 
+}
+@font-face {
+  font-family: "KungFuMasterTwotoneItalic";   /*Can be any text*/
+  src: local("KungFuMasterTwotoneItalic"),
+    url("./fonts/KungFuMasterTwotoneItalic.otf") format("truetype"); 
+}
+
